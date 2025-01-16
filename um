@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1> Hanna Moda e Estilo </h1>
+
+<form action="/ dois">
+  <label for="fname"> Especialização:</label><br>
+  <input type="text" id="fname" name="fname" value="Designer"><br>
+  <label for="lname"> Avalização:</label><br>
+  <input type="text" id="lname" name="lname" value="Ecelente"><br><br>
+  <input type="submit" value="Continuar">
+</form> 
+
+<p> Clique em continuar o seu cadastro na Hanna Moda e Estilo.</p>
+
+</body>
+</html>
+
